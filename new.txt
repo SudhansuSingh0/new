@@ -1,0 +1,10 @@
+<html>
+<title>
+St..Peter's College
+</title>
+<boby>
+<h1>Happy To See HTML Page </h1>
+<h2>Happy To See HTML Page </h2>
+<h3>Happy To See HTML Page </h3>
+</body>
+</html>
